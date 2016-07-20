@@ -4,7 +4,7 @@ Created on 21 Aug 2014
 
 Functions and classes for convolutional and turbo codes.
 
-Author: Venkat Venkatesan (venkat.venkatesan@nokia-bell-labs.com)
+Author: Venkat Venkatesan
 """
 
 
