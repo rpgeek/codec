@@ -1,2 +1,2 @@
 # codec
-Python implementation of convolutional and turbo encoder/decoder
+Python implementation of encoder/decoder for convolutional and turbo codes
